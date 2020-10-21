@@ -8,5 +8,8 @@
 underline
 _________________
 
-Underline2
+underline 2
 ====================
+
+-Formato *cursiva* de la primera forma
+-Formato _cursiva_ de la primera forma

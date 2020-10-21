@@ -18,3 +18,8 @@ underline 2
 - Formato __negrita__ de la segunda forma
 
 - formato ~~sub~~
+_________________________
+1. Camello
+2. Caracol
+3. Cacatua
+4. Casuela

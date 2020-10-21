@@ -28,3 +28,7 @@ _________________________
 <a href="https://github.com/JoelP2003/nuevo/edit/main/README.md">Linwini</a>
 
 ![Logo](https://i.pinimg.com/originals/89/8b/a8/898ba88dd483f7a85088006554ca5243.jpg)
+# Tabla
+| Nombre | Apellido|
+|--------|---------|
+| Joel | Peña |

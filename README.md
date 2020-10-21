@@ -16,3 +16,5 @@ underline 2
 
 - Formato **negrita** de la primera forma
 - Formato __negrita__ de la segunda forma
+
+- formato ~sub~

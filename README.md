@@ -35,6 +35,7 @@ _________________________
 
 # Citas
 >Esto es una cita normal
- Texto normal
+
+Texto normal
  
 >Esto es otra cita

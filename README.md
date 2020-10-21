@@ -26,3 +26,5 @@ _________________________
 
 # Links:
 <a href="https://github.com/JoelP2003/nuevo/edit/main/README.md">Linwini</a>
+
+!{Logo}(https://cdn.shopify.com/s/files/1/0255/8659/7968/products/ScreenShot2020-07-16at1.11.08PM.png?v=1595278281)
